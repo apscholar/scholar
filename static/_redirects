@@ -1,2 +1,3 @@
+/res/* https://apresearch.netlify.com/:splat 301!
 /research/* https://apresearch.netlify.com/:splat 301!
 /stats/*  https://apstats.netlify.com/:splat  301!

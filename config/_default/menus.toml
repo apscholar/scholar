@@ -10,7 +10,7 @@
 
 [[main]]
   name = "AP Research"
-  url = "research/"
+  url = "res/"
   weight = 20
   
 [[main]]
