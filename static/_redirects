@@ -2,4 +2,5 @@
 /apresearch/* https://apscholar.github.io/ap-research/:splat 200!
 /dl/* https://dariusli.netlify.com/:splat 200!
 /stats/* https://apstats.netlify.com/:splat 200!
-/stats2/* https://apstats.netlify.com/:splat 301!
+https://apscholar.github.io/ap-statistics/* https://scholar.netlify.com/stats/:splat  301! 
+https://apstats.netlify.com/* https://scholar.netlify.com/stats/:splat  301! 
