@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "AP Research"
-  url = "res/"
+  name = "AP<sup>&reg;</sup> Research"
+  url = "research/"
   weight = 20
   
 [[main]]
-  name = "AP Statistics"
-  url = "stats/"
+  name = "AP<sup>&reg;</sup> Calculus AB/BC"
+  url = "calculus/"
   weight = 20  
   
 [[main]]
@@ -33,10 +33,10 @@
   url = "#featured"
   weight = 40
 
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 50
 
 [[main]]
   name = "Contact"

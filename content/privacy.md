@@ -5,7 +5,7 @@ header:
   caption: ""
   image: ""
 share: false
-title: Privacy Policy
+title: Disclaimer
 ---
 
-...
+This website is not affiliated with the College Board or the AP<sup>&reg;</sup> program.
