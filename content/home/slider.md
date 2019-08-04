@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "Mr. Li's Course Site"
-  cta_url = "https://ap-research.github.io"
+  cta_url = "https://ap-calculus.github.io"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
   
