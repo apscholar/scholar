@@ -1,10 +1,5 @@
-/res/* https://apresearch.netlify.com/:splat 301!
-/research/* https://apresearch.netlify.com/:splat 301!
-/calc/* https://calculus.netlify.com/:splat 301!
-/calc-ab/* https://calculus.netlify.com/ab/:splat 301!
-/calc-bc/* https://calculus.netlify.com/bc/:splat 301!
-/calculus/* https://calculus.netlify.com/:splat 301!
-/calculus-ab/* https://calculus.netlify.com/ab/:splat 301!
-/calculus-bc/* https://calculus.netlify.com/bc/:splat 301!
-
-#/stats/*  https://apstats.netlify.com/:splat  301!
+https://scholar.netlify.com/* https://apscholar.github.io/:splat 301!
+/res/* https://ap-research.github.io/:splat 301!
+/research/* https://ap-research.github.io/:splat 301!
+/calc/* https://ap-calculus.github.io/:splat 301!
+/calculus/* https://ap-calculus.github.io/:splat 301!
