@@ -7,15 +7,15 @@ authors:
   # - course: 
   #   institution: 
   #   year: 
-  # - course: MSc, Statistics
-  #   institution: London School of Economics
+  # - course: 
+  #   institution: 
   #   year: 
-  # - course: A.B., Applied Mathematics
-  #   institution: Harvard
+  # - course: 
+  #   institution: 
   #   year: 
 email: ""
 interests:
-name: Darius Li
+name: Mr. Li
 organizations:
 - name: ""
   url: ""
@@ -24,6 +24,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: home
+  icon_pack: fas
+  link: '/'
 # - icon: twitter
 #   icon_pack: fab
 #   link: 
@@ -32,7 +35,7 @@ social:
 #   link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/dariusli
+  link: https://github.com/apscholar
 superuser: true
 user_groups:
 - Researchers
