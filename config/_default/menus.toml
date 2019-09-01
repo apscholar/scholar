@@ -11,12 +11,17 @@
 [[main]]
   name = "AP<sup>&reg;</sup> Research"
   url = "https://ap-research.github.io"
-  weight = 20
+  weight = 16
   
 [[main]]
-  name = "AP<sup>&reg;</sup> Calculus AB/BC"
+  name = "AP<sup>&reg;</sup> Calculus AB"
   url = "https://ap-calculus.github.io"
-  weight = 20  
+  weight = 15  
+  
+[[main]]
+  name = "AP<sup>&reg;</sup> Statistics"
+  url = "https://ap-statistics.github.io"
+  weight = 17
   
 [[main]]
   name = "Posts"

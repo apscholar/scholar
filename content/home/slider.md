@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Welcome to Mr. Li's Class"
+  title = "Welcome to Mr. Li's Courses"
   content = "2019--2020"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -35,7 +35,7 @@ height = ""
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "AP<sup>&reg;</sup> Calculus AB & BC"
+  title = "AP<sup>&reg;</sup> Calculus AB"
   content = ""
   align = "center"
 
@@ -62,4 +62,17 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
+[[item]]
+  title = "AP<sup>&reg;</sup> Statistics"
+  content = ""
+  align = "center"
+
+  overlay_color = "royalblue"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+
+  cta_label = "Mr. Li's Course Site"
+  cta_url = "https://ap-statistics.github.io"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 +++
