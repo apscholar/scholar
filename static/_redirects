@@ -1,4 +1,4 @@
-https://scholar.netlify.com/* https://apscholar.github.io/:splat 301!
+https://apscholar.github.io/* https://scholar.netlify.app/:splat 301!
 #/res/* https://ap-research.github.io/:splat 301!
 #/research/* https://ap-research.github.io/:splat 301!
 #/calc/* https://ap-calculus.github.io/:splat 301!
