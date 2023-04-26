@@ -23,15 +23,15 @@
   url = "https://ap-statistics.github.io"
   weight = 17
   
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
 
-[[main]]
-  name = "Portfolio"
-  url = "portfolio/"
-  weight = 30
+#[[main]]
+#  name = "Portfolio"
+#  url = "portfolio/"
+#  weight = 30
 
 #[[main]]
 #  name = "Publications"
